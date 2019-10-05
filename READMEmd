@@ -1,1 +1,5 @@
-"#lists all jar files present in a given folder"
+#JarFinder :honey_pot: :mag:
+##Program to list all jar files present in a given folder
+
+###Instructions:
+Add this to .classpath of java projects to include these as external jars.
